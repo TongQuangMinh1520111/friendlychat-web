@@ -24,11 +24,11 @@ export const environment = {
     // ***********************************************************************************************************************
     // * TODO(DEVELOPER): Update values according to: Firebase Console > Overview > Add Firebase to your web app. *
     // ***********************************************************************************************************************
-    apiKey: '',
-    authDomain: '',
-    databaseURL: '',
-    projectId: '',
-    storageBucket: '',
-    messagingSenderId: ''
+    apiKey: "AIzaSyD-idwW_GtzMzyWFP_MsBvDJu2wMRIyJDk",
+    authDomain: "friendlychat-1520111.firebaseapp.com",
+    databaseURL: "https://friendlychat-1520111.firebaseio.com",
+    projectId: "friendlychat-1520111",
+    storageBucket: "friendlychat-1520111.appspot.com",
+    messagingSenderId: "656244363344"
   }
 };
